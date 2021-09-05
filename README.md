@@ -1,7 +1,6 @@
-![colorscheme](https://user-images.githubusercontent.com/74967495/132123770-efb6a3a2-d2a4-4b1c-be33-1eea8b58af49.jpg)
 Sam’s Photo studio
 
-
+![portfolio-readme](https://user-images.githubusercontent.com/74967495/132123766-f6c00fc8-5b0e-4a58-8112-a21b3eb8ffd6.jpg)
 
 Sam’s Photo studio is a studio for the photographer to be able to market himself and his services, reach out to his current customers and new customers. The photographer wants to be able to show examples of images and have his contact information on the page. On the page there will be links where you can link social media, this means that previously satisfied customers can spread the photographer’s service. 
 The website a good readability: Most people who visit the page want more information and are interested in previous assignments and example photographs and with that it is important that the page has good readability that gives a good first impression.
@@ -18,7 +17,7 @@ Features
 
 Colors:
  
- ![portfolio-readme](https://user-images.githubusercontent.com/74967495/132123766-f6c00fc8-5b0e-4a58-8112-a21b3eb8ffd6.jpg)
+![colorscheme](https://user-images.githubusercontent.com/74967495/132123770-efb6a3a2-d2a4-4b1c-be33-1eea8b58af49.jpg)
 
 
 To make it as simple as possible. The target group is couples and parents, they want stylish, modern with a light background and contrasts that blend in with the background. 
