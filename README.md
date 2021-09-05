@@ -1,7 +1,4 @@
-# codeinstitute-portfolio-1-
-
 Sam’s Photo studio
-
 
 
 Sam’s Photo studio is a studio for the photographer to be able to market himself and his services, reach out to his current customers and new customers. The photographer wants to be able to show examples of images and have his contact information on the page. On the page there will be links where you can link social media, this means that previously satisfied customers can spread the photographer’s service. 
