@@ -1,0 +1,57 @@
+
+.portfolio {
+  background: #f7f7f7;
+  padding: 72px 0;
+}
+
+.portfolio-card {
+  margin: 32px 0;
+}
+
+.portfolio-img {
+  position: relative;
+}
+
+.portfolio-text h2 {
+  font-family:'Playfair Display', serif;
+  padding: 16px 0;
+  font-size: 422.4px;
+  font-weight: 500;
+}
+
+
+.portfolio img {
+  width: 100%;
+  height: auto;
+}
+
+
+article {
+  padding: 0.5in 0;
+  display: grid;
+  grid-template-columns: 1fr 0.5in [start] 1.25in 5in 1.25in [end] 0.5in 1fr;
+}
+
+article * {
+  grid-column: start / end;
+}
+
+
+@media (max-width: 4.5in) {
+  article {
+    grid-template-columns: 1fr 5% [start] 15% 60% 15% [end] 5% 1fr;
+  }
+
+  .portfolio-content {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 32px;
+    align-items: center;
+  }
+
+  .portfolio img {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 32px;
+    align-items: center;
+  }
