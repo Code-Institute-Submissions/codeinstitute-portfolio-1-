@@ -22,7 +22,7 @@ img {
 
 header {
   min-height: 65vh;
-  background: url(https://github.com/nikuuwes/codeinstitute-portfolio-1-/blob/main/assets/Images/aron-920236_1280.jpg) center/cover no-repeat fixed;
+  background: url(assets/Images/aron-920236_1280.jpg) center/cover no-repeat fixed;
   display: flex;
   flex-direction: column;
   justify-content: stretch;
